@@ -76,6 +76,7 @@ MEASUREMENT OF BENDING LOSSES:
 	Plot a graph of the received signal amplitude versus the loop diameter.
 
  
+<img width="395" height="208" alt="image" src="https://github.com/user-attachments/assets/acb071ba-aaec-4289-aa42-caa49ee4a808" />
 
 **Tabulation:**
 <img width="1021" height="1436" alt="image" src="https://github.com/user-attachments/assets/b2fb1e87-025c-4d7d-af86-3d07135f6d6f" />
